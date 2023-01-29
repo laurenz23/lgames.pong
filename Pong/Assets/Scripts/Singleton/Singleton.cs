@@ -26,7 +26,7 @@ namespace lgames
             }
         }
 
-        public void Awake()
+        private void Awake()
         {
             if (_instance != null)
             {
